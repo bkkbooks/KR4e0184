@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0184/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0184_WYG_000-1a, image: WYG1273/WYG1273-0653a.png}
+body:
+  text: 愚谷集别集類五明提要臣等謹案愚谷集十巻明李舜臣撰舜臣字茂欽號愚谷又號未村居士樂安人嘉靖癸未進士官至太僕寺卿是集詩四巻曰部署稿曰金陵稿曰江西稿曰歸田稿文六巻前有康熙丙午周亮工序蓋亮工官山東時所刋也詩格雅飭而頗窘於邊幅所長所短皆在於斯文古質而稍覺有意謹嚴或剷削太過故亮工序記王世貞語有體製纎小之譏然於時北地信陽之學盛行於世方以鉤棘塗飾相髙而舜臣獨以朴直存古法其序記多名論而西橋逸事狀一篇觸張璁桂萼之鋒直書不諱文出之日天下咋舌抑亦剛正之士矣據集所載小序舜臣所著有易卦辱言詩序考毛詩出比禮經讀春秋左傳考例榖梁三例左傳讀古文考三經考籕文考六經直音諸書今皆未見然亦足見其文之根柢也乾隆四十三年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:8fa07e071652cd8616d887131b34232da3149bcefa8083486325d45dcfeda2ac
+metadata:
+  title: 愚谷集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:24:35.048690'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0184/KR4e0184_000.txt
+hash: sha256:ec8d6a5bc05efc10088e7ab28ce68b2eeca421f72aed94abff55171702598716
